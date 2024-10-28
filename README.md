@@ -35,16 +35,32 @@ Build started at 05:43...
 ```
 
 # System info
+```
 Edition	Windows 11 Pro
 Version	23H2
 Installed on	19/01/2023
 OS build	22631.4169
 Experience	Windows Feature Experience Pack 1000.22700.1034.0
+````
 
 # Compiler info
+```
 Microsoft (R) C/C++ Optimizing Compiler Version 19.36.32546 for x64
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+Compiler Passes:
+ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\cl.exe:        Version 19.36.32546.0
+ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\c1.dll:        Version 19.36.32546.0
+ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\c1xx.dll:      Version 19.36.32546.0
+ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\c2.dll:        Version 19.36.32546.0
+ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\c1xx.dll:      Version 19.36.32546.0
+ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\link.exe:      Version 14.36.32546.0
+ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\mspdb140.dll:  Version 14.36.32546.0
+ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\bin\HostX64\x64\1033\clui.dll: Version 19.36.32546.0
+```
 
 # Visual Studio info
+```
 Microsoft Visual Studio Community 2022
 Version 17.11.5
 VisualStudio.17.Release/17.11.5+35327.3
@@ -177,3 +193,4 @@ Xamarin.Android Reference Assemblies and MSBuild support.
     Java.Interop: xamarin/java.interop/d17-5@149d70fe
     SQLite: xamarin/sqlite/3.40.1@68c69d8
     Xamarin.Android Tools: xamarin/xamarin-android-tools/d17-5@ca1552d
+```
