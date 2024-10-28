@@ -37,9 +37,7 @@ OS build	22631.4169
 Experience	Windows Feature Experience Pack 1000.22700.1034.0
 
 # Compiler info
->cl
 Microsoft (R) C/C++ Optimizing Compiler Version 19.36.32546 for x64
-Copyright (C) Microsoft Corporation.  All rights reserved.
 
 # Visual Studio info
 Microsoft Visual Studio Community 2022
