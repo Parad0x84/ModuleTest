@@ -9,7 +9,7 @@ just run Generate.bat file or invoke cmake yourself. Nothing special is required
 
 # Output
 ```
-Build started at 05:26...
+Build started at 05:43...
 1>------ Build started: Project: ZERO_CHECK, Configuration: Debug x64 ------
 1>1>Checking Build System
 2>------ Build started: Project: ModuleTest, Configuration: Debug x64 ------
@@ -20,13 +20,18 @@ Build started at 05:26...
 2>main.cpp
 2>std.ixx
 2>Compiling...
-2>test.ixx
 2>std.ixx
-2>main.cpp
-2>other_test.cpp
-2>ModuleTest.vcxproj -> D:\DEV\Github\ModuleTest\out\Debug\ModuleTest.exe
-========== Build: 2 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
-========== Build completed at 05:26 and took 03.301 seconds ==========
+2>test.ixx
+2>D:\a\_work\1\s\src\vctools\Compiler\CxxFE\sl\p1\c\module\writer.cpp:2482: sorry: not yet implemented
+2>D:\DEV\Github\ModuleTest\src\test.ixx(27,1): fatal  error C1001: Internal compiler error.
+2>(compiler file 'D:\a\_work\1\s\src\vctools\Compiler\CxxFE\sl\p1\c\module\utilities.h', line 46)
+2> To work around this problem, try simplifying or changing the program near the locations listed above.
+2>If possible please provide a repro here: https://developercommunity.visualstudio.com
+2>Please choose the Technical Support command on the Visual C++
+2> Help menu, or open the Technical Support help file for more information
+2>Done building project "ModuleTest.vcxproj" -- FAILED.
+========== Build: 1 succeeded, 1 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 05:43 and took 03.268 seconds ==========
 ```
 
 # System info
