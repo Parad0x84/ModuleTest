@@ -4,7 +4,7 @@ This repository contains full source code and build system setup to reproduce a 
 It seems that error caused by "heavy" templating somehow doesn't play very nice with module files
 
 
-# Building (Windows specific)
+# Building
 just run Generate.bat file or invoke cmake yourself. Nothing special is required
 
 # Output
