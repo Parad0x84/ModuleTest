@@ -1,5 +1,5 @@
 
-This repository contains full source code and build system setup to reproduce a compiler bug which happens on Windows 11 + VS2022 + CMake.
+This repository contains full source code, build system setup, system/toolchain information required to reproduce a compiler bug on CPP modules (Windows 11 + VS2022 + CMake)
 
 It seems that error caused by "heavy" templating somehow doesn't play very nice with module files
 
